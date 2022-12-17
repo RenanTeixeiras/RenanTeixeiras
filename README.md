@@ -1,11 +1,11 @@
 - 👋 Hi! I’m @RenanTeixeiras.
-- 👀 I’m interested in been a full stack developer.
-- 🌱 I’m currently learning python.
+- 👀 I’m a Back-end developer.
+- 🌱 My Skills are: python, SQL, Flask, HTML, CSS, JS.
 - 📫 You can reach me on renanteixeiras@hotmail.com or @renanteixeirasilva on Instagram. 
 ---------------------------------------------------------------------------------------------
 - 👋 Olá! sou @RenanTeixeiras.
 - 👀 Estou interessado em ser um desenvolvedor full stack. 
-- 🌱 Atualmente estou aprendendo python.
+- 🌱  Minhas habilidade são: python, SQL, Flask, HTML, CSS, JS.
 - 📫 Você pode me encontrar no renanteixeiras@hotmail.com ou @renanteixeirasilva no Instagram. 
 
 <!---
